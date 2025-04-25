@@ -47,7 +47,7 @@ chmod 400 my-ec2-key  # Ensure proper permissions
 
 ## 🏗️ Infrastructure Setup with Terraform
 
-### 📁 `main.tf`
+### 📁 [`main.tf`](Terraform/Ubuntu%20EC2%20Instance%20create/main.tf)
 
 This Terraform config:
 - Creates a security group
