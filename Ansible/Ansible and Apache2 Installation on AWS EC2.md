@@ -1,4 +1,3 @@
-
 # 🚀 Ansible + Apache2 on AWS EC2 via Terraform
 
 This project provisions an AWS EC2 instance using **Terraform** and configures it with **Apache2** using **Ansible**. It's designed for easy reproducibility and automation for dev/test environments.
